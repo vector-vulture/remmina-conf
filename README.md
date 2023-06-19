@@ -6,7 +6,7 @@ remote desktop files are located (for Ubuntu 22.04 and up) in:
 
 the preferences file is stored in:
 
-/home/ll/.config/remmina/remmina.pref
+~/.config/remmina/remmina.pref
 
 
 
