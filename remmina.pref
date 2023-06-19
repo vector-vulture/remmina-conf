@@ -1,8 +1,8 @@
 [remmina_pref]
 secret=IWU3RgUqMNzVfwiQj3dvpktBs1QjEil72SaTw9ZosDI=
-datadir_path=/home/ll/.local/share/remmina
+datadir_path=/home/$USER/.local/share/remmina
 remmina_file_name=%G_%P_%N_%h
-screenshot_path=/home/ll/Pictures
+screenshot_path=/home/$USER/Pictures
 screenshot_name=remmina_%p_%h_%Y%m%d-%H%M%S
 deny_screenshot_clipboard=true
 save_view_mode=true
