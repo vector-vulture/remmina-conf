@@ -1,5 +1,4 @@
 [remmina_pref]
-secret=IWU3RgUqMNzVfwiQj3dvpktBs1QjEil72SaTw9ZosDI=
 datadir_path=/home/$USER/.local/share/remmina
 remmina_file_name=%G_%P_%N_%h
 screenshot_path=/home/$USER/Pictures
